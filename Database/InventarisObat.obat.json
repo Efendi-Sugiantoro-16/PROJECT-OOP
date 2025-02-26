@@ -1,0 +1,480 @@
+[{
+  "_id": {
+    "$oid": "67b1c680625b7bcefa7c2d34"
+  },
+  "KodeObat": "OBT-9BF1FE",
+  "NamaObat": "Paracetamol",
+  "JenisObat": "Tablet",
+  "Kategori": "Analgesik (Pereda Nyeri), Antipiretik (Penurun Demam)",
+  "Deskripsi": "Obat peningkat Adrenaline",
+  "Tanggal": "2025-02-16",
+  "Stok": 123,
+  "NamaMerek": "Mexo Granovisk"
+},
+{
+  "_id": {
+    "$oid": "67b1ce8aac1eaea9bb197420"
+  },
+  "KodeObat": "OBT-037B07",
+  "NamaObat": "Aspirin",
+  "JenisObat": "Sirup",
+  "Deskripsi": "Supplemen makanan ",
+  "Stok": 12,
+  "Tanggal": "2023-03-16",
+  "Kategori": "Analgesik (Pereda Nyeri), Obat Kardiovaskular",
+  "NamaMerek": "Macos SG"
+},
+{
+  "_id": {
+    "$oid": "67b1d6982024efcb4b4c59bc"
+  },
+  "KodeObat": "OBT-D15564",
+  "NamaObat": "Naproxen",
+  "JenisObat": "Kapsul",
+  "Kategori": "Analgesik (Pereda Nyeri), Antiinflamasi",
+  "Deskripsi": "Obat Antibiotik",
+  "Tanggal": "2024-12-10",
+  "Stok": 12,
+  "NamaMerek": "Bounderish"
+},
+{
+  "_id": {
+    "$oid": "67b1e6fed60114505c6d5645"
+  },
+  "KodeObat": "OBT-47176B",
+  "NamaObat": "Acyclovir",
+  "JenisObat": "Kapsul",
+  "Kategori": "Antiviral (Anti Virus)",
+  "Deskripsi": "Digunankan untuk maag Akut",
+  "Tanggal": "2024-03-04",
+  "Stok": 20,
+  "NamaMerek": "Pilanex V1"
+},
+{
+  "_id": {
+    "$oid": "67b1f3501d66fdc2ad086e92"
+  },
+  "KodeObat": "DRG-D17F217",
+  "NamaObat": "Losartan",
+  "JenisObat": "Sirup",
+  "Kategori": "Antihipertensi (Penurun Tekanan Darah)",
+  "Deskripsi": "Obat penurun tekanan darah",
+  "Tanggal": "2025-02-16",
+  "Stok": 12,
+  "NamaMerek": "Mantar JM"
+},
+{
+  "_id": {
+    "$oid": "67b1f79304557ecf5acb9dca"
+  },
+  "KodeObat": "MED-A16F376",
+  "NamaObat": "Multivitamin",
+  "JenisObat": "Sirup",
+  "Kategori": "Suplemen & Vitamin",
+  "Deskripsi": "Obat digunakan untuk pereda nyeri otot",
+  "Tanggal": "2025-02-16",
+  "Stok": 12,
+  "NamaMerek": "Kilanox"
+},
+{
+  "_id": {
+    "$oid": "67b2000d3c24526e82d0aef9"
+  },
+  "KodeObat": "HCL-9E1B611",
+  "NamaObat": "Nebacetin",
+  "JenisObat": "Cair",
+  "Kategori": "Obat Luar (Antibiotik Luka)",
+  "Deskripsi": "Obat oles untuk nyeri otot",
+  "Tanggal": "2023-02-15",
+  "Stok": 13,
+  "NamaMerek": "Harex Coltstant"
+},
+{
+  "_id": {
+    "$oid": "67b213063f1b54af5f75a215"
+  },
+  "KodeObat": "MED-FC40905",
+  "NamaObat": "ibuprofen",
+  "JenisObat": "Tablet",
+  "Kategori": "Analgesik (Pereda Nyeri), Antipiretik (Penurun Demam)",
+  "NamaMerek": "DarconNix",
+  "Deskripsi": "Obat anti sakit demam",
+  "Tanggal": "2025-02-16",
+  "Stok": 12
+},
+{
+  "_id": {
+    "$oid": "67b235601238396d34b3ec64"
+  },
+  "KodeObat": "DRG-5867491",
+  "NamaObat": "Digoxin",
+  "JenisObat": "Cair",
+  "Kategori": "Obat Kardiovaskular",
+  "NamaMerek": "Pimarex",
+  "Deskripsi": "obat peredasakit jantung",
+  "Tanggal": "2025-02-17",
+  "Stok": 12
+  },
+  {
+    "_id": {
+      "$oid": "67b24580a1e9c5d3fa847bc1"
+    },
+    "KodeObat": "MED-112233",
+    "NamaObat": "Amoxicillin",
+    "JenisObat": "Kapsul",
+    "Kategori": "Antibiotik",
+    "Deskripsi": "Obat antibiotik untuk infeksi bakteri",
+    "Tanggal": "2025-02-17",
+    "Stok": 25,
+    "NamaMerek": "AntibioMed"
+  },
+  {
+    "_id": {
+      "$oid": "67b24699b2e6d9a8fc4731de"
+    },
+    "KodeObat": "OBT-445566",
+    "NamaObat": "Cetirizine",
+    "JenisObat": "Tablet",
+    "Kategori": "Antihistamin",
+    "Deskripsi": "Obat untuk alergi dan gatal-gatal",
+    "Tanggal": "2025-02-17",
+    "Stok": 30,
+    "NamaMerek": "ZyricMed"
+  },
+  {
+    "_id": {
+      "$oid": "67b247abcfed7c6c9b6738ef"
+    },
+    "KodeObat": "DRG-778899",
+    "NamaObat": "Dexamethasone",
+    "JenisObat": "Tablet",
+    "Kategori": "Kortikosteroid",
+    "Deskripsi": "Obat antiinflamasi untuk alergi dan peradangan",
+    "Tanggal": "2025-02-17",
+    "Stok": 20,
+    "NamaMerek": "DexaPharma"
+  },
+  {
+    "_id": {
+      "$oid": "67b248c2fe3b28d8da7c9b11"
+    },
+    "KodeObat": "HCL-998877",
+    "NamaObat": "Loratadine",
+    "JenisObat": "Tablet",
+    "Kategori": "Antihistamin",
+    "Deskripsi": "Obat untuk rhinitis alergi dan urtikaria",
+    "Tanggal": "2025-02-17",
+    "Stok": 18,
+    "NamaMerek": "LoratMed"
+  },
+  {
+    "_id": {
+      "$oid": "67b249e3bbd92f79e53a2b44"
+    },
+    "KodeObat": "OBT-223344",
+    "NamaObat": "Metformin",
+    "JenisObat": "Tablet",
+    "Kategori": "Antidiabetes",
+    "Deskripsi": "Obat untuk mengontrol kadar gula darah",
+    "Tanggal": "2025-02-17",
+    "Stok": 50,
+    "NamaMerek": "DiabetMed"
+  },
+  {
+    "_id": {
+      "$oid": "67b24af0dd7314cbac81f7d6"
+    },
+    "KodeObat": "DRG-556677",
+    "NamaObat": "Atorvastatin",
+    "JenisObat": "Tablet",
+    "Kategori": "Obat Kardiovaskular",
+    "Deskripsi": "Obat penurun kadar kolesterol",
+    "Tanggal": "2025-02-17",
+    "Stok": 22,
+    "NamaMerek": "Cardiostat"
+  },
+  {
+    "_id": {
+      "$oid": "67b24bfc3481723a4c52b9e2"
+    },
+    "KodeObat": "OBT-667788",
+    "NamaObat": "Furosemide",
+    "JenisObat": "Tablet",
+    "Kategori": "Diuretik",
+    "Deskripsi": "Obat untuk mengurangi retensi cairan",
+    "Tanggal": "2025-02-17",
+    "Stok": 40,
+    "NamaMerek": "DiureMed"
+  },
+  {
+    "_id": {
+      "$oid": "67b24d084a2636e8ba91dfe3"
+    },
+    "KodeObat": "HCL-334455",
+    "NamaObat": "Omeprazole",
+    "JenisObat": "Kapsul",
+    "Kategori": "Antasida",
+    "Deskripsi": "Obat untuk mengatasi asam lambung berlebih",
+    "Tanggal": "2025-02-17",
+    "Stok": 35,
+    "NamaMerek": "GastroMed"
+  },
+  {
+    "_id": {
+      "$oid": "67b24e12d45d99c6c8d2f4a9"
+    },
+    "KodeObat": "DRG-990011",
+    "NamaObat": "Salbutamol",
+    "JenisObat": "Sirup",
+    "Kategori": "Obat Pernapasan",
+    "Deskripsi": "Obat untuk meredakan asma dan sesak napas",
+    "Tanggal": "2025-02-17",
+    "Stok": 28,
+    "NamaMerek": "BronchoMed"
+  },
+  {
+    "_id": {
+      "$oid": "67b24f1bdc7a8e6e99f8e7c3"
+    },
+    "KodeObat": "OBT-556622",
+    "NamaObat": "Prednisone",
+    "JenisObat": "Tablet",
+    "Kategori": "Kortikosteroid",
+    "Deskripsi": "Obat antiinflamasi dan imunosupresif",
+    "Tanggal": "2025-02-17",
+    "Stok": 15,
+    "NamaMerek": "InflamCare"
+  },
+  {
+    "_id": {
+      "$oid": "67b25027bf2313dca45a1b62"
+    },
+    "KodeObat": "HCL-774455",
+    "NamaObat": "Ranitidine",
+    "JenisObat": "Tablet",
+    "Kategori": "Antasida",
+    "Deskripsi": "Obat untuk mengatasi sakit maag dan GERD",
+    "Tanggal": "2025-02-17",
+    "Stok": 45,
+    "NamaMerek": "GastroRelief"
+  },  {
+    "_id": { "$oid": "67b245601238396d34b3ec65" },
+    "KodeObat": "DRG-758392A",
+    "NamaObat": "Metformin",
+    "JenisObat": "Tablet",
+    "Kategori": "Antidiabetes",
+    "NamaMerek": "Glucorex",
+    "Deskripsi": "Obat untuk mengontrol kadar gula darah",
+    "Tanggal": "2024-07-10",
+    "Stok": 15
+  },
+  {
+    "_id": { "$oid": "67b245601238396d34b3ec66" },
+    "KodeObat": "HCL-9274B12",
+    "NamaObat": "Amoxicillin",
+    "JenisObat": "Kapsul",
+    "Kategori": "Antibiotik",
+    "NamaMerek": "Biolex",
+    "Deskripsi": "Obat untuk infeksi bakteri",
+    "Tanggal": "2024-09-05",
+    "Stok": 30
+  },
+  {
+    "_id": { "$oid": "67b245601238396d34b3ec67" },
+    "KodeObat": "OBT-6738ACD",
+    "NamaObat": "Cetirizine",
+    "JenisObat": "Tablet",
+    "Kategori": "Antihistamin",
+    "NamaMerek": "Histalyn",
+    "Deskripsi": "Obat untuk alergi dan gatal-gatal",
+    "Tanggal": "2025-01-21",
+    "Stok": 18
+  },
+  {
+    "_id": { "$oid": "67b245601238396d34b3ec68" },
+    "KodeObat": "MED-AC92F11",
+    "NamaObat": "Omeprazole",
+    "JenisObat": "Kapsul",
+    "Kategori": "Obat Lambung",
+    "NamaMerek": "Gaspro",
+    "Deskripsi": "Obat untuk mengurangi asam lambung",
+    "Tanggal": "2024-11-15",
+    "Stok": 25
+  },
+  {
+    "_id": { "$oid": "67b245601238396d34b3ec69" },
+    "KodeObat": "DRG-27384BD",
+    "NamaObat": "Atorvastatin",
+    "JenisObat": "Tablet",
+    "Kategori": "Obat Kardiovaskular",
+    "NamaMerek": "Cholex",
+    "Deskripsi": "Obat untuk menurunkan kolesterol",
+    "Tanggal": "2024-08-30",
+    "Stok": 20
+  },
+  {
+    "_id": { "$oid": "67b245601238396d34b3ec6A" },
+    "KodeObat": "OBT-F8392C1",
+    "NamaObat": "Loratadine",
+    "JenisObat": "Sirup",
+    "Kategori": "Antihistamin",
+    "NamaMerek": "Alergonix",
+    "Deskripsi": "Obat untuk mengatasi alergi",
+    "Tanggal": "2025-03-05",
+    "Stok": 22
+  },
+  {
+    "_id": { "$oid": "67b245601238396d34b3ec6B" },
+    "KodeObat": "MED-192837C",
+    "NamaObat": "Dexamethasone",
+    "JenisObat": "Tablet",
+    "Kategori": "Kortikosteroid",
+    "NamaMerek": "Dexasone",
+    "Deskripsi": "Obat antiinflamasi dan autoimun",
+    "Tanggal": "2024-12-12",
+    "Stok": 28
+  },
+  {
+    "_id": { "$oid": "67b245601238396d34b3ec6C" },
+    "KodeObat": "HCL-92837DD",
+    "NamaObat": "Salbutamol",
+    "JenisObat": "Inhaler",
+    "Kategori": "Obat Pernapasan",
+    "NamaMerek": "Ventolin",
+    "Deskripsi": "Obat untuk meredakan asma",
+    "Tanggal": "2025-02-18",
+    "Stok": 10
+  },
+  {
+    "_id": { "$oid": "67b245601238396d34b3ec6D" },
+    "KodeObat": "DRG-ABC12345",
+    "NamaObat": "Prednisone",
+    "JenisObat": "Tablet",
+    "Kategori": "Kortikosteroid",
+    "NamaMerek": "Prednisonex",
+    "Deskripsi": "Obat untuk peradangan dan gangguan autoimun",
+    "Tanggal": "2024-10-20",
+    "Stok": 35
+  },
+  {
+    "_id": { "$oid": "67b245601238396d34b3ec6E" },
+    "KodeObat": "OBT-XYZ98765",
+    "NamaObat": "Furosemide",
+    "JenisObat": "Tablet",
+    "Kategori": "Diuretik",
+    "NamaMerek": "Lasix",
+    "Deskripsi": "Obat untuk mengatasi retensi cairan",
+    "Tanggal": "2025-01-10",
+    "Stok": 14
+  },
+  {
+    "_id": { "$oid": "67b245601238396d34b3ec6F" },
+    "KodeObat": "EXT-UKA8372",
+    "NamaObat": "Betadine Solution",
+    "JenisObat": "Cair",
+    "Kategori": "Antiseptik",
+    "NamaMerek": "Betadine",
+    "Deskripsi": "Larutan antiseptik untuk membersihkan luka",
+    "Tanggal": "2024-07-15",
+    "Stok": 50
+  },
+  {
+    "_id": { "$oid": "67b245601238396d34b3ec70" },
+    "KodeObat": "EXT-USA9273",
+    "NamaObat": "Neosporin Liquid",
+    "JenisObat": "Cair",
+    "Kategori": "Antibiotik Topikal",
+    "NamaMerek": "Neosporin",
+    "Deskripsi": "Antibiotik cair untuk mencegah infeksi luka",
+    "Tanggal": "2024-08-22",
+    "Stok": 40
+  },
+  {
+    "_id": { "$oid": "67b245601238396d34b3ec71" },
+    "KodeObat": "EXT-JPN6374",
+    "NamaObat": "Kowa Menthol Lotion",
+    "JenisObat": "Cair",
+    "Kategori": "Obat Kulit",
+    "NamaMerek": "Kowa",
+    "Deskripsi": "Lotion menthol untuk mengatasi iritasi kulit",
+    "Tanggal": "2025-01-10",
+    "Stok": 30
+  },
+  {
+    "_id": { "$oid": "67b245601238396d34b3ec72" },
+    "KodeObat": "EXT-FRA1928",
+    "NamaObat": "Hexomedine",
+    "JenisObat": "Cair",
+    "Kategori": "Antiseptik",
+    "NamaMerek": "Hexomedine",
+    "Deskripsi": "Antiseptik cair untuk infeksi kulit",
+    "Tanggal": "2024-09-30",
+    "Stok": 25
+  },
+  {
+    "_id": { "$oid": "67b245601238396d34b3ec73" },
+    "KodeObat": "EXT-GER2938",
+    "NamaObat": "Bepanthen Liquid",
+    "JenisObat": "Cair",
+    "Kategori": "Obat Luka",
+    "NamaMerek": "Bepanthen",
+    "Deskripsi": "Cairan perawatan luka dan iritasi kulit",
+    "Tanggal": "2025-02-20",
+    "Stok": 35
+  },
+  {
+    "_id": { "$oid": "67b245601238396d34b3ec74" },
+    "KodeObat": "EXT-ITA8473",
+    "NamaObat": "Flogeril Spray",
+    "JenisObat": "Cair",
+    "Kategori": "Obat Radang",
+    "NamaMerek": "Flogeril",
+    "Deskripsi": "Spray anti-inflamasi untuk nyeri otot",
+    "Tanggal": "2024-11-12",
+    "Stok": 20
+  },
+  {
+    "_id": { "$oid": "67b245601238396d34b3ec75" },
+    "KodeObat": "EXT-CAN7623",
+    "NamaObat": "Polysporin Spray",
+    "JenisObat": "Cair",
+    "Kategori": "Antibiotik Topikal",
+    "NamaMerek": "Polysporin",
+    "Deskripsi": "Spray antibiotik untuk luka ringan",
+    "Tanggal": "2025-03-05",
+    "Stok": 28
+  },
+  {
+    "_id": { "$oid": "67b245601238396d34b3ec76" },
+    "KodeObat": "EXT-KOR8362",
+    "NamaObat": "DermaSpray",
+    "JenisObat": "Cair",
+    "Kategori": "Obat Kulit",
+    "NamaMerek": "DermaSpray",
+    "Deskripsi": "Spray perawatan kulit untuk kulit sensitif",
+    "Tanggal": "2024-10-18",
+    "Stok": 18
+  },
+  {
+    "_id": { "$oid": "67b245601238396d34b3ec77" },
+    "KodeObat": "EXT-SWI9482",
+    "NamaObat": "Hansaplast Liquid Bandage",
+    "JenisObat": "Cair",
+    "Kategori": "Perban Cair",
+    "NamaMerek": "Hansaplast",
+    "Deskripsi": "Perekat luka cair untuk perlindungan tambahan",
+    "Tanggal": "2024-12-07",
+    "Stok": 22
+  },
+  {
+    "_id": { "$oid": "67b245601238396d34b3ec78" },
+    "KodeObat": "EXT-AUS9352",
+    "NamaObat": "Tea Tree Antiseptic",
+    "JenisObat": "Cair",
+    "Kategori": "Antiseptik Herbal",
+    "NamaMerek": "Thursday Plantation",
+    "Deskripsi": "Antiseptik alami dari minyak pohon teh",
+    "Tanggal": "2025-01-25",
+    "Stok": 15
+  }
+]

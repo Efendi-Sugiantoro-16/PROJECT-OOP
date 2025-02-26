@@ -1,0 +1,567 @@
+[{
+  "_id": {
+    "$oid": "67b1b08ac437c943b471abe6"
+  },
+  "User": "efendi@gmail.com",
+  "Action": "Login",
+  "Detail": "User berhasil login ke sistem",
+  "Timestamp": "2025-02-16 16:31:54"
+},
+{
+  "_id": {
+    "$oid": "67b1bfe4b81bb7784a9bdeac"
+  },
+  "User": "efendi@gmail.com",
+  "Action": "Login",
+  "Detail": "User berhasil login ke sistem",
+  "Timestamp": "2025-02-16 17:37:24"
+},
+{
+  "_id": {
+    "$oid": "67b1c3d19a0dffa998817b5e"
+  },
+  "User": "efendi@gmail.com",
+  "Action": "Login",
+  "Detail": "User berhasil login ke sistem",
+  "Timestamp": "2025-02-16 17:54:09"
+},
+{
+  "_id": {
+    "$oid": "67b1c40f9a0dffa998817b60"
+  },
+  "User": "Admin",
+  "Action": "Tambah Data",
+  "Detail": "Menambahkan obat dengan kode OBT-876AB9",
+  "Timestamp": "2025-02-16 17:55:11"
+},
+{
+  "_id": {
+    "$oid": "67b1c4ef9a0dffa998817b61"
+  },
+  "User": "Admin",
+  "Action": "Hapus Data",
+  "Detail": "Menghapus obat dengan kode OBT-876AB9",
+  "Timestamp": "2025-02-16 17:58:55"
+},
+{
+  "_id": {
+    "$oid": "67b1c621625b7bcefa7c2d33"
+  },
+  "User": "efendi@gmail.com",
+  "Action": "Login",
+  "Detail": "User berhasil login ke sistem",
+  "Timestamp": "2025-02-16 18:04:01"
+},
+{
+  "_id": {
+    "$oid": "67b1c680625b7bcefa7c2d35"
+  },
+  "User": "Admin",
+  "Action": "Tambah Data",
+  "Detail": "Menambahkan obat dengan kode OBT-9BF1FE",
+  "Timestamp": "2025-02-16 18:05:36"
+},
+{
+  "_id": {
+    "$oid": "67b1cbf3144cf6baa9bddd19"
+  },
+  "User": "efendi@gmail.com",
+  "Action": "Login",
+  "Detail": "User berhasil login ke sistem",
+  "Timestamp": "2025-02-16 18:28:51"
+},
+{
+  "_id": {
+    "$oid": "67b1cc8476778668764aa01b"
+  },
+  "User": "efendi@gmail.com",
+  "Action": "Login",
+  "Detail": "User berhasil login ke sistem",
+  "Timestamp": "2025-02-16 18:31:16"
+},
+{
+  "_id": {
+    "$oid": "67b1ce4aac1eaea9bb19741f"
+  },
+  "User": "efendi@gmail.com",
+  "Action": "Login",
+  "Detail": "User berhasil login ke sistem",
+  "Timestamp": "2025-02-16 18:38:50"
+},
+{
+  "_id": {
+    "$oid": "67b1ce8aac1eaea9bb197421"
+  },
+  "User": "Admin",
+  "Action": "Tambah Data",
+  "Detail": "Menambahkan obat dengan kode OBT-037B07",
+  "Timestamp": "2025-02-16 18:39:54"
+},
+{
+  "_id": {
+    "$oid": "67b1cf7eac1eaea9bb197422"
+  },
+  "User": "Admin",
+  "Action": "Logout",
+  "Detail": "User logout dari sistem.",
+  "Timestamp": "2025-02-16 18:43:58"
+},
+{
+  "_id": {
+    "$oid": "67b1d00e4a270872ec78f9f7"
+  },
+  "User": "efendi@gmail.com",
+  "Action": "Login",
+  "Detail": "User berhasil login ke sistem",
+  "Timestamp": "2025-02-16 18:46:22"
+},
+{
+  "_id": {
+    "$oid": "67b1d0124a270872ec78f9f8"
+  },
+  "User": "Admin",
+  "Action": "Logout",
+  "Detail": "User logout dari sistem.",
+  "Timestamp": "2025-02-16 18:46:26"
+},
+{
+  "_id": {
+    "$oid": "67b1d46bf84ed64aa341984a"
+  },
+  "User": "efendi@gmail.com",
+  "Action": "Login",
+  "Detail": "User berhasil login ke sistem",
+  "Timestamp": "2025-02-16 19:04:59"
+},
+{
+  "_id": {
+    "$oid": "67b1d5f72024efcb4b4c59bb"
+  },
+  "User": "efendi@gmail.com",
+  "Action": "Login",
+  "Detail": "User berhasil login ke sistem",
+  "Timestamp": "2025-02-16 19:11:35"
+},
+{
+  "_id": {
+    "$oid": "67b1d6982024efcb4b4c59bd"
+  },
+  "User": "Admin",
+  "Action": "Tambah Data",
+  "Detail": "Menambahkan obat dengan kode OBT-D15564",
+  "Timestamp": "2025-02-16 19:14:16"
+},
+{
+  "_id": {
+    "$oid": "67b1d7142024efcb4b4c59be"
+  },
+  "User": "Admin",
+  "Action": "Logout",
+  "Detail": "User logout dari sistem.",
+  "Timestamp": "2025-02-16 19:16:20"
+},
+{
+  "_id": {
+    "$oid": "67b1dfc0f9633f393c3737bd"
+  },
+  "User": "efendi@gmail.com",
+  "Action": "Login",
+  "Detail": "User berhasil login ke sistem",
+  "Timestamp": "2025-02-16 19:53:19"
+},
+{
+  "_id": {
+    "$oid": "67b1e668d60114505c6d5644"
+  },
+  "User": "efendi@gmail.com",
+  "Action": "Login",
+  "Detail": "User berhasil login ke sistem",
+  "Timestamp": "2025-02-16 20:21:44"
+},
+{
+  "_id": {
+    "$oid": "67b1e6fed60114505c6d5646"
+  },
+  "User": "Admin",
+  "Action": "Tambah Data",
+  "Detail": "Menambahkan obat dengan kode OBT-47176B",
+  "Timestamp": "2025-02-16 20:24:14"
+},
+{
+  "_id": {
+    "$oid": "67b1e747d60114505c6d5647"
+  },
+  "User": "Admin",
+  "Action": "Update Data",
+  "Detail": "Memperbarui obat dengan kode OBT-9BF1FE",
+  "Timestamp": "2025-02-16 20:25:27"
+},
+{
+  "_id": {
+    "$oid": "67b1e758d60114505c6d5648"
+  },
+  "User": "Admin",
+  "Action": "Update Data",
+  "Detail": "Memperbarui obat dengan kode OBT-037B07",
+  "Timestamp": "2025-02-16 20:25:44"
+},
+{
+  "_id": {
+    "$oid": "67b1e761d60114505c6d5649"
+  },
+  "User": "Admin",
+  "Action": "Logout",
+  "Detail": "User logout dari sistem.",
+  "Timestamp": "2025-02-16 20:25:53"
+},
+{
+  "_id": {
+    "$oid": "67b1edd9686e5ce2ea0e283e"
+  },
+  "User": "efendi@gmail.com",
+  "Action": "Login",
+  "Detail": "User berhasil login ke sistem",
+  "Timestamp": "2025-02-16 20:53:29"
+},
+{
+  "_id": {
+    "$oid": "67b1ee70686e5ce2ea0e283f"
+  },
+  "User": "Admin",
+  "Action": "Logout",
+  "Detail": "User logout dari sistem.",
+  "Timestamp": "2025-02-16 20:56:00"
+},
+{
+  "_id": {
+    "$oid": "67b1f21bd878b32bbf69fa16"
+  },
+  "User": "efendi@gmail.com",
+  "Action": "Login",
+  "Detail": "User berhasil login ke sistem",
+  "Timestamp": "2025-02-16 21:11:39"
+},
+{
+  "_id": {
+    "$oid": "67b1f2b91d66fdc2ad086e91"
+  },
+  "User": "efendi@gmail.com",
+  "Action": "Login",
+  "Detail": "User berhasil login ke sistem",
+  "Timestamp": "2025-02-16 21:14:17"
+},
+{
+  "_id": {
+    "$oid": "67b1f3501d66fdc2ad086e93"
+  },
+  "User": "Admin",
+  "Action": "Tambah Data",
+  "Detail": "Menambahkan obat dengan kode DRG-D17F217",
+  "Timestamp": "2025-02-16 21:16:48"
+},
+{
+  "_id": {
+    "$oid": "67b1f52b1d66fdc2ad086e94"
+  },
+  "User": "Admin",
+  "Action": "Logout",
+  "Detail": "User logout dari sistem.",
+  "Timestamp": "2025-02-16 21:24:43"
+},
+{
+  "_id": {
+    "$oid": "67b1f6fa04557ecf5acb9dc9"
+  },
+  "User": "efendi@gmail.com",
+  "Action": "Login",
+  "Detail": "User berhasil login ke sistem",
+  "Timestamp": "2025-02-16 21:32:26"
+},
+{
+  "_id": {
+    "$oid": "67b1f79304557ecf5acb9dcb"
+  },
+  "User": "Admin",
+  "Action": "Tambah Data",
+  "Detail": "Menambahkan obat dengan kode MED-A16F376",
+  "Timestamp": "2025-02-16 21:34:59"
+},
+{
+  "_id": {
+    "$oid": "67b1f81504557ecf5acb9dcc"
+  },
+  "User": "Admin",
+  "Action": "Logout",
+  "Detail": "User logout dari sistem.",
+  "Timestamp": "2025-02-16 21:37:09"
+},
+{
+  "_id": {
+    "$oid": "67b1f9d8390667884bef67b3"
+  },
+  "User": "fendi@gmail.com",
+  "Action": "Login",
+  "Detail": "User berhasil login ke sistem",
+  "Timestamp": "2025-02-16 21:44:40"
+},
+{
+  "_id": {
+    "$oid": "67b1fa32390667884bef67b4"
+  },
+  "User": "Admin",
+  "Action": "Logout",
+  "Detail": "User logout dari sistem.",
+  "Timestamp": "2025-02-16 21:46:10"
+},
+{
+  "_id": {
+    "$oid": "67b1fba70b37634edc94abda"
+  },
+  "User": "fendi@gmail.com",
+  "Action": "Login",
+  "Detail": "User berhasil login ke sistem",
+  "Timestamp": "2025-02-16 21:52:23"
+},
+{
+  "_id": {
+    "$oid": "67b1fc510b37634edc94abdb"
+  },
+  "User": "Admin",
+  "Action": "Logout",
+  "Detail": "User logout dari sistem.",
+  "Timestamp": "2025-02-16 21:55:13"
+},
+{
+  "_id": {
+    "$oid": "67b1fcada15e42d18883ec37"
+  },
+  "User": "fendi@gmail.com",
+  "Action": "Login",
+  "Detail": "User berhasil login ke sistem",
+  "Timestamp": "2025-02-16 21:56:45"
+},
+{
+  "_id": {
+    "$oid": "67b1fd5fa15e42d18883ec38"
+  },
+  "User": "Admin",
+  "Action": "Logout",
+  "Detail": "User logout dari sistem.",
+  "Timestamp": "2025-02-16 21:59:43"
+},
+{
+  "_id": {
+    "$oid": "67b1ff483c24526e82d0aef8"
+  },
+  "User": "fendi@gmail.com",
+  "Action": "Login",
+  "Detail": "User berhasil login ke sistem",
+  "Timestamp": "2025-02-16 22:07:52"
+},
+{
+  "_id": {
+    "$oid": "67b2000d3c24526e82d0aefa"
+  },
+  "User": "Admin",
+  "Action": "Tambah Data",
+  "Detail": "Menambahkan obat dengan kode HCL-9E1B611",
+  "Timestamp": "2025-02-16 22:11:09"
+},
+{
+  "_id": {
+    "$oid": "67b2006e3c24526e82d0aefb"
+  },
+  "User": "Admin",
+  "Action": "Logout",
+  "Detail": "User logout dari sistem.",
+  "Timestamp": "2025-02-16 22:12:46"
+},
+{
+  "_id": {
+    "$oid": "67b211109323856397dc22d5"
+  },
+  "User": "fendi@gmail.com",
+  "Action": "Login",
+  "Detail": "User berhasil login ke sistem",
+  "Timestamp": "2025-02-16 23:23:44"
+},
+{
+  "_id": {
+    "$oid": "67b211459323856397dc22d6"
+  },
+  "User": "Admin",
+  "Action": "Logout",
+  "Detail": "User logout dari sistem.",
+  "Timestamp": "2025-02-16 23:24:37"
+},
+{
+  "_id": {
+    "$oid": "67b2122c3f1b54af5f75a214"
+  },
+  "User": "fendi@gmail.com",
+  "Action": "Login",
+  "Detail": "User berhasil login ke sistem",
+  "Timestamp": "2025-02-16 23:28:28"
+},
+{
+  "_id": {
+    "$oid": "67b213063f1b54af5f75a216"
+  },
+  "User": "Admin",
+  "Action": "Tambah Data",
+  "Detail": "Menambahkan obat dengan kode MED-FC40905",
+  "Timestamp": "2025-02-16 23:32:06"
+},
+{
+  "_id": {
+    "$oid": "67b213283f1b54af5f75a217"
+  },
+  "User": "Admin",
+  "Action": "Logout",
+  "Detail": "User logout dari sistem.",
+  "Timestamp": "2025-02-16 23:32:40"
+},
+{
+  "_id": {
+    "$oid": "67b2182ba16dddd53dfa063f"
+  },
+  "User": "fendi@gmail.com",
+  "Action": "Login",
+  "Detail": "User berhasil login ke sistem",
+  "Timestamp": "2025-02-16 23:54:03"
+},
+{
+  "_id": {
+    "$oid": "67b2187ea16dddd53dfa0640"
+  },
+  "User": "Admin",
+  "Action": "Update Data",
+  "Detail": "Memperbarui obat dengan kode OBT-9BF1FE",
+  "Timestamp": "2025-02-16 23:55:26"
+},
+{
+  "_id": {
+    "$oid": "67b2189aa16dddd53dfa0641"
+  },
+  "User": "Admin",
+  "Action": "Update Data",
+  "Detail": "Memperbarui obat dengan kode OBT-037B07",
+  "Timestamp": "2025-02-16 23:55:54"
+},
+{
+  "_id": {
+    "$oid": "67b218f3a16dddd53dfa0642"
+  },
+  "User": "Admin",
+  "Action": "Update Data",
+  "Detail": "Memperbarui obat dengan kode OBT-D15564",
+  "Timestamp": "2025-02-16 23:57:23"
+},
+{
+  "_id": {
+    "$oid": "67b21917a16dddd53dfa0643"
+  },
+  "User": "Admin",
+  "Action": "Update Data",
+  "Detail": "Memperbarui obat dengan kode OBT-47176B",
+  "Timestamp": "2025-02-16 23:57:59"
+},
+{
+  "_id": {
+    "$oid": "67b2193ea16dddd53dfa0644"
+  },
+  "User": "Admin",
+  "Action": "Update Data",
+  "Detail": "Memperbarui obat dengan kode DRG-D17F217",
+  "Timestamp": "2025-02-16 23:58:38"
+},
+{
+  "_id": {
+    "$oid": "67b21963a16dddd53dfa0645"
+  },
+  "User": "Admin",
+  "Action": "Update Data",
+  "Detail": "Memperbarui obat dengan kode MED-A16F376",
+  "Timestamp": "2025-02-16 23:59:15"
+},
+{
+  "_id": {
+    "$oid": "67b21996a16dddd53dfa0646"
+  },
+  "User": "Admin",
+  "Action": "Update Data",
+  "Detail": "Memperbarui obat dengan kode HCL-9E1B611",
+  "Timestamp": "2025-02-17 00:00:06"
+},
+{
+  "_id": {
+    "$oid": "67b21a68a16dddd53dfa0647"
+  },
+  "User": "Admin",
+  "Action": "Logout",
+  "Detail": "User logout dari sistem.",
+  "Timestamp": "2025-02-17 00:03:36"
+},
+{
+  "_id": {
+    "$oid": "67b21b88dc47dda2c7c94ecc"
+  },
+  "User": "fendi@gmail.com",
+  "Action": "Login",
+  "Detail": "User berhasil login ke sistem",
+  "Timestamp": "2025-02-17 00:08:24"
+},
+{
+  "_id": {
+    "$oid": "67b21c021d429eaf8a6c4e13"
+  },
+  "User": "fendi@gmail.com",
+  "Action": "Login",
+  "Detail": "User berhasil login ke sistem",
+  "Timestamp": "2025-02-17 00:10:26"
+},
+{
+  "_id": {
+    "$oid": "67b21c431d429eaf8a6c4e14"
+  },
+  "User": "Admin",
+  "Action": "Logout",
+  "Detail": "User logout dari sistem.",
+  "Timestamp": "2025-02-17 00:11:31"
+},
+{
+  "_id": {
+    "$oid": "67b21cd62a7998420e5bea31"
+  },
+  "User": "fendi@gmail.com",
+  "Action": "Login",
+  "Detail": "User berhasil login ke sistem",
+  "Timestamp": "2025-02-17 00:13:58"
+},
+{
+  "_id": {
+    "$oid": "67b21ef90c2c879da3ed1e21"
+  },
+  "User": "fendi@gmail.com",
+  "Action": "Login",
+  "Detail": "User berhasil login ke sistem",
+  "Timestamp": "2025-02-17 00:23:05"
+},
+{
+  "_id": {
+    "$oid": "67b225dc0c2c879da3ed1e22"
+  },
+  "User": "Admin",
+  "Action": "Logout",
+  "Detail": "User logout dari sistem.",
+  "Timestamp": "2025-02-17 00:52:28"
+},
+{
+  "_id": {
+    "$oid": "67b2262f4773c32a6ae0e70f"
+  },
+  "User": "fendi@gmail.com",
+  "Action": "Login",
+  "Detail": "User berhasil login ke sistem",
+  "Timestamp": "2025-02-17 00:53:51"
+}]

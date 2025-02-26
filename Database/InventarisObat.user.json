@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "67934c64e4a27ce16191c3e4"
+  },
+  "user_id": "user_001",
+  "username": "admin",
+  "name": "Administrator",
+  "email": "admin@example.com",
+  "password": "hashed_password"
+},
+{
+  "_id": {
+    "$oid": "679a05827258589fe1daf78f"
+  },
+  "username": "fendi1",
+  "name": "fendi",
+  "email": "fendi@gmail.com",
+  "password": "$2a$11$4PEbUEJ1GcKBlbdyJcPgBeqaZyC/svELvmQkYxiX2rBILPeF29Rxm"
+},
+{
+  "_id": {
+    "$oid": "679c7c43442e25cc9a33f4e5"
+  },
+  "username": "zakaruna",
+  "name": "Muflih Afif",
+  "email": "muflihafif@gmail.com",
+  "password": "$2a$11$CvOw8qKv4zBLHuKFcu.Fku.S1F3OgRq5CR0xTVmSEroT/ACJrHGei"
+},
+{
+  "_id": {
+    "$oid": "679e34ea5a05a1e83b2e2f77"
+  },
+  "username": "fendi2",
+  "name": "Efendi",
+  "email": "efendi@gmail.com",
+  "password": "$2a$11$Kge/zljAKcUJHhFodPrJ0uamWjPbHkVFWC8XDLLaFce3frPnqUEHm"
+}]
